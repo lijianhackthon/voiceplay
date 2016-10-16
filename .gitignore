@@ -1,1 +1,4 @@
 *.pyc
+*.wav
+*.out
+*.win
